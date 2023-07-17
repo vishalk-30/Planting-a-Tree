@@ -1,2 +1,2 @@
 # Planting-a-Tree
-Codeacdemy
+Codeacdemy Guided Project
